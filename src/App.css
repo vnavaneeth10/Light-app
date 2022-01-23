@@ -33,6 +33,7 @@
   width: 50px;
   background-color: gray;
   border-radius: 50%;
+  border-color: black;
   
 }
 
@@ -43,5 +44,6 @@
   padding: 10px;
   border-color: black;
   color: skyblue;
+  font-size:medium;
 
 }
